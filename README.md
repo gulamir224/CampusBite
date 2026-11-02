@@ -144,4 +144,3 @@ The application pages are served dynamically from the local app. Capture screens
 ## Team members
 
 Add the project team's names, class/section, and responsibilities here before submission.
-

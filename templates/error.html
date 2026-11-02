@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block title %}{{ code }} · Page not found{% endblock %}{% block content %}<section class="container error-page"><span class="error-code">{{ code }}</span><h1>Well, this is a little awkward.</h1><p>{{ message }}</p><a class="button" href="{{ url_for('web.home') }}">Back to CampusBite <span>→</span></a></section>{% endblock %}
